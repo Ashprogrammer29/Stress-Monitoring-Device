@@ -12,8 +12,8 @@
 int GSR;
 int GSR_percentage;
 // WiFi credentials
-#define WIFI_SSID "LAVKUSH_CHAUDHARI "
-#define WIFI_PASSWORD "8108491665"
+#define WIFI_SSID "ASWIN-DEIVANAYAGAM "
+#define WIFI_PASSWORD "9940217606"
 // Telegram bot token
 #define BOT_API_TOKEN "7534847312:AAEmhLTw7KuXPPPt9pWi00ePsqpilst1zdo"
 // BME280 sensor configuration
