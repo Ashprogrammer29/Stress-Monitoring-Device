@@ -15,7 +15,7 @@ int GSR_percentage;
 #define WIFI_SSID "ASWIN-DEIVANAYAGAM "
 #define WIFI_PASSWORD "9940217606"
 // Telegram bot token
-#define BOT_API_TOKEN "7534847312:AAEmhLTw7KuXPPPt9pWi00ePsqpilst1zdo"
+#define BOT_API_TOKEN "7534847312:AAEmhLTw7KuXPPPt9pWi00ePsqpilst1zdo "
 // BME280 sensor configuration
 Adafruit_BME280 bme;
 // MAX30105 sensor configuration
